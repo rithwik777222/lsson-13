@@ -1,2 +1,3 @@
-higiegiebkcbnbsbefi3gfigigf3
-12334599w8diwioh
+file in write mode
+ hiiii,i am ba penguin(i wish)
+ file in append mode still wish i were a penguin:(
